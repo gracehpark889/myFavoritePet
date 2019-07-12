@@ -1,0 +1,59 @@
+.navigation {
+    border: 2px solid red;
+}
+
+.list {
+    display: inline-block;
+    padding: 20px 30px;
+    margin: 10px 5px;
+    text-align: center;
+    background-color:gray;
+    color: white;
+}
+
+.left {
+    width: 29%;
+    display: inline-block;
+    height: 800px;
+    vertical-align: top;
+}
+
+.left h1 {
+    display:inline-block;
+    vertical-align: middle;
+    margin: 50px;
+}
+
+.right {
+    width: 69%;
+    background-color: turquoise;
+    display: inline-block;
+    height: 800px;
+}
+
+.top {
+    background-color: orange;
+    width: 100%;
+    text-align: center;
+    overflow: auto;
+}
+
+.benji {
+    width: 165px;
+    padding: 10px;
+} 
+
+p{
+    font-size: 40px;
+}
+
+.bottom {
+    background-color: red;
+    width: 100%;
+    overflow:auto;
+}
+
+
+h2 {
+    margin: 0;
+}
